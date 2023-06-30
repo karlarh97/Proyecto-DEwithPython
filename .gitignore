@@ -1,0 +1,5 @@
+python/airflow/bin/python
+python/airflow/bin/python3
+python/airflow/bin/python3.9
+**/__pycache__/
+**/migrations/versions/
